@@ -267,7 +267,7 @@ This template uses [Remix](https://remix.run). The following Shopify tools are a
 5. Access to the top page of `SHOPIFY_APP_URL`. If you see the shop domain input text and login button, you're successful. 
 
 ## == Referred documents for AWS hosting (now Prisma has the issue of 'Session' table not found, so no successful yet...) ==
-Check [this commit](https://github.com/benzookapi/shopify-remix-app-custom-aws/commit/46a6a6fb7d4e735cc62bbbc23e58d3b8985daa7f) for what I tried.
+Check [this commit](https://github.com/benzookapi/shopify-remix-app-custom-aws/commit/46a6a6fb7d4e735cc62bbbc23e58d3b8985daa7f) for what I tried with the command `npm install  npm run build  npm run setup  arc deploy`.
 
 - [Architect](https://arc.codes/docs/en/get-started/quickstart)
 - [Remnix Grunge stack](https://github.com/remix-run/grunge-stack)
