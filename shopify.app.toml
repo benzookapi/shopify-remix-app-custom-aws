@@ -2,7 +2,7 @@
 
 name = "MyRemixApp1_Custom"
 client_id = "90b184c9e1337eecddfd43684b8fe35a"
-application_url = "https://shopify-remix-app-custom.onrender.com"
+application_url = "https://vnwfgv4ohg.execute-api.us-west-2.amazonaws.com"
 embedded = true
 
 [access_scopes]
@@ -11,14 +11,14 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://shopify-remix-app-custom.onrender.com/auth/callback",
-  "https://shopify-remix-app-custom.onrender.com/auth/shopify/callback",
-  "https://shopify-remix-app-custom.onrender.com/api/auth/callback",
-  "https://shopify-remix-app-custom.onrender.com/.shopify/graphiql/auth/callback"
+  "https://vnwfgv4ohg.execute-api.us-west-2.amazonaws.com/auth/callback",
+  "https://vnwfgv4ohg.execute-api.us-west-2.amazonaws.com/auth/shopify/callback",
+  "https://vnwfgv4ohg.execute-api.us-west-2.amazonaws.com/api/auth/callback",
+  "https://vnwfgv4ohg.execute-api.us-west-2.amazonaws.com/.shopify/graphiql/auth/callback"
 ]
 
 [webhooks]
-api_version = "2023-10"
+api_version = "2024-04"
 
 [pos]
 embedded = false

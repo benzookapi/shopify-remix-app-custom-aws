@@ -266,5 +266,12 @@ This template uses [Remix](https://remix.run). The following Shopify tools are a
 
 5. Access to the top page of `SHOPIFY_APP_URL`. If you see the shop domain input text and login button, you're successful. 
 
+## == Referred documents for AWS hosting (now Prisma has the issue of 'Session' table not found, so no successful yet...) ==
+Check [this commit]() for what I tried.
 
+- [Architect](https://arc.codes/docs/en/get-started/quickstart)
+- [Remnix Grunge stack](https://github.com/remix-run/grunge-stack)
+- [How to Add Remix Run Adaptor](https://remix.run/docs/en/main/other-api/adapter)
+- [Prisma + Remix + Architect - impossible to make it work?](https://github.com/prisma/prisma/discussions/22527)
+- [Quick Start Mode fails due to isbot](https://github.com/remix-run/remix/discussions/8411)
 
